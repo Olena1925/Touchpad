@@ -3,7 +3,8 @@
 This quick guide helps you turn the touchpad on or off in case you have accidentally switched it off, or you do not need it in the presence of an external mouse.
 
 >Audience: Basic users of the Windows Operating System.
-> **Note**: Touchpad settings are located in **Start**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>)>**Settings**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Settings%20Icon.png" width="10" height="10"/>)>**Devices**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Devices%20Icon.PNG" width="15" height="15"/>)>**Touchpad**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Touchpad%20Icon.png" width="10" height="10"/>).
+>
+>**Note**: Touchpad settings are located in **Start**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>)>**Settings**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Settings%20Icon.png" width="10" height="10"/>)>**Devices**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Devices%20Icon.PNG" width="15" height="15"/>)>**Touchpad**(<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Touchpad%20Icon.png" width="10" height="10"/>).
 
 ## 1. Quick steps to turn the touchpad ON or OFF
 
