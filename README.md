@@ -5,11 +5,8 @@
 
 ### 1. Quick steps to turn the touchpad ON or OFF
 
-<center>
 <a href="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" target="blank">
-<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="290" height="160" align="middle" alt="click to pop the image in the new tab" align="center"/>
-</a>
-</center>
+<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="290" height="160" align="middle" alt="Open in New Tab" style = "display: block; margin-left: auto; margin-right:auto;"/></a>
 
 #### 1.1: Using only a keyboard <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Keyboard%20Icon.jpg" width="35" height="20"/>
 
@@ -25,6 +22,8 @@
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key on your keyboard.
 2. Type **touchpad settings** in the `Type here to search` box and press **Enter**.
 3. Click the **On** or **Off** toggle switch.
+
+>**Tip**: check the box `Leave touchpad on when a mouse is connected`
 
 ### 2. From Control Panel
 
