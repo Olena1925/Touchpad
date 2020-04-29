@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="290" height="160" align="middle" alt="click to pop the image in the new tab" align="center"/>
 </a>
 
-#### 1.1: Using only a keyboard <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Keyboard%20Icon.jpg" width="30" height="30"/>
+#### 1.1: Using only a keyboard <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Keyboard%20Icon.jpg" width="35" height="20"/>
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key on your keyboard.
 2. Type **touchpad settings** in the `Type here to search` box and press **Enter**.
@@ -18,7 +18,7 @@
 
 > **Tip**: Use the command **Shift** + **Tab** to go back to the previous selection
 
-#### 1.2: Using a mouse <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Mouse%20Icon.jpg" width="30" height="30"/>
+#### 1.2: Using a mouse <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Mouse%20Icon.jpg" width="20" height="20"/>
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key on your keyboard.
 2. Type **touchpad settings** in the `Type here to search` box and press **Enter**.
