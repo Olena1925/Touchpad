@@ -26,7 +26,7 @@ This quick guide helps you turn the touchpad on or off in case you have accident
 
 ## 2. From Control Panel
 
-<img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Device%20Driver.png" width="65" height="50"/>
+<img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Device%20Driver.png" width="225" height="110"/>
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key.
 2. Type **Control Panel** in the `Type here to search` box and press **Enter**.
@@ -34,5 +34,3 @@ This quick guide helps you turn the touchpad on or off in case you have accident
 4. Right click on the first **HID-compliant mouse** (*this is your touchpad*) and click on either **Disable device** or **Enable device**.
 
 >Follow [Microsoft Windows Support](https://support.microsoft.com/en-us/help/4027866/windows-fix-touchpad-problems-in-windows-10) for advanced troubleshooting options.
-
-
