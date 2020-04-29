@@ -7,7 +7,7 @@ This quick guide helps you turn the touchpad on or off in case you have accident
 
 ## 1. Quick steps to turn the touchpad ON or OFF
 
-<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="250" height="150" align="middle" style="margin:0px 190px">
+<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="250" height="150" align="middle" style="margin:0px 50px">
 
 ### 1.1: Using keyboard only
 
