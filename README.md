@@ -23,7 +23,7 @@
 2. Type **touchpad settings** in the `Type here to search` box and press **Enter**.
 3. Click the **On** or **Off** toggle switch.
 
->**Tip**: check the box `Leave touchpad on when a mouse is connected`
+>**Tip**: check the box **Leave touchpad on when a mouse is connected**
 
 ### 2. From Control Panel
 
