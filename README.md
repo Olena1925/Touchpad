@@ -3,13 +3,13 @@
 >- **Audience**: Basic users of the Windows Operating System.
 >- **Note**: Touchpad settings are located in **Windows** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/> > **Settings** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Settings%20Icon.png" width="10" height="10"/> > **Devices** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Devices%20Icon.PNG" width="15" height="15"/> > **Touchpad** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Touchpad%20Icon.png" width="10" height="10"/>.
 
-## 1. Quick steps to turn the touchpad ON or OFF
+### 1. Quick steps to turn the touchpad ON or OFF
 
 <a href="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" target="blank">
 <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="250" height="150" align="middle" name="click to pop the image in the new tab"/>
 </a>
 
-### 1.1: Using keyboard only
+#### 1.1: Using only a keyboard <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Keyboard%20Icon.jpg" width="30" height="30"/>
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key on your keyboard.
 2. Type **touchpad settings** in the `Type here to search` box and press **Enter**.
@@ -18,13 +18,13 @@
 
 > **Tip**: Use the command **Shift** + **Tab** to go back to the previous selection
 
-### 1.2: Using an external mouse
+#### 1.2: Using a mouse <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Mouse%20Icon.jpg" width="30" height="30"/>
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key on your keyboard.
 2. Type **touchpad settings** in the `Type here to search` box and press **Enter**.
 3. Click the **On** or **Off** toggle switch.
 
-## 2. From Control Panel
+### 2. From Control Panel
 
 1. Follow **Windows** > **Control Panel** > **Device Manager** and expand the **Mice and other pointing devices** options.
 2. Right click on the first **HID-compliant mouse** (*this is your touchpad*) and click on either **Disable device** or **Enable device**.
