@@ -7,6 +7,10 @@
 
 [<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="250" height="150" align="middle" style="margin:0px 50px">](https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif)
 
+<a href="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" target="blank">
+![](https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif)
+</a>
+
 ### 1.1: Using keyboard only
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key on your keyboard.
