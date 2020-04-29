@@ -6,7 +6,7 @@
 ### 1. Quick steps to turn the touchpad ON or OFF
 
 <a href="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" target="blank">
-<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="250" height="150" align="middle" name="click to pop the image in the new tab"/>
+<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Navigating.gif" width="290" height="160" align="middle" alt="click to pop the image in the new tab" align="center"/>
 </a>
 
 #### 1.1: Using only a keyboard <img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Keyboard%20Icon.jpg" width="30" height="30"/>
