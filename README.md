@@ -26,7 +26,7 @@ This quick guide helps you turn the touchpad on or off in case you have accident
 
 ## 2. From Control Panel
 
-![](https://raw.githubusercontent.com/Olena1925/Touchpad/master/Device%20Driver.png)
+<img src="https://raw.githubusercontent.com/Olena1925/Touchpad/master/Device%20Driver.png" width="65" height="50"/>
 
 1. Press **Windows** (<img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/>) key.
 2. Type **Control Panel** in the `Type here to search` box and press **Enter**.
