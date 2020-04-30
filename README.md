@@ -1,4 +1,4 @@
-# Turning the touchpad On/Off in Windows 10
+## Turning the touchpad On/Off in Windows 10
 
 >- **Audience**: Basic and Intermediate users of the Windows Operating System.
 >- **Note**: Touchpad settings are located in **Windows** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Windows%20Icon.png" width="10" height="10"/> > **Settings** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Settings%20Icon.png" width="10" height="10"/> > **Devices** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Devices%20Icon.PNG" width="15" height="15"/> > **Touchpad** <img src="https://raw.githubusercontent.com/Olena1925/touchpad/master/Touchpad%20Icon.png" width="10" height="10"/>.
